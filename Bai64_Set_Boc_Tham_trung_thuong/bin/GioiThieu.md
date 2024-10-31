@@ -1,0 +1,1 @@
+containALL(collection<?> c) trả về phần tử chứa trong tập hợp được chỉ định  
